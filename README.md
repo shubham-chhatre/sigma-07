@@ -1,5 +1,5 @@
 # Hello, I'm Shubham Chhatre ! 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavwagh19&label=Profile%20views&color=0e75b6&style=flat" alt="sigma-07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sigma-07&label=Profile%20views&color=0e75b6&style=flat" alt="sigma-07" /> </p>
 
 ## About Me
 
